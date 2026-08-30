@@ -90,7 +90,7 @@ Correction History + Dashboard
 
 ## 📊 Final Review Status
 
-The final project summary records **35 / 35 cases reviewed**, with **30 Accepted, 4 Edited and 1 Rejected**. The application reports **86% AI/human agreement** and **34 / 35 rule coverage**. fileciteturn80file3L55-L63
+The final project records **35 / 35 cases reviewed**, with **30 Accepted, 4 Edited and 1 Rejected**. The application reports **86% AI/human agreement** and **34 / 35 rule coverage**.
 
 | Metric | Final Status |
 |---|---:|
@@ -106,13 +106,21 @@ The final project summary records **35 / 35 cases reviewed**, with **30 Accepted
 
 ## 🏆 Certification & Credentials
 
-The repository is intended to contain the following three Cisco Networking Academy course-completion certificates:
+The repository contains the following **three Cisco Networking Academy course-completion certificates**, completed by **Pushkar Singh** through the Cisco Networking Academy program at IILM University:
 
-1. **Data Analytics Essentials** — completed 16 June 2026. fileciteturn80file2L2-L13
-2. **Introduction to Modern AI** — completed 11 June 2026. fileciteturn80file1L2-L13
-3. **Apply AI: Analyze Customer Reviews** — completed 11 June 2026. fileciteturn80file0L2-L13
+| Certificate | Completion Date |
+|---|---|
+| **Data Analytics Essentials** | 16 June 2026 |
+| **Introduction to Modern AI** | 11 June 2026 |
+| **Apply AI: Analyze Customer Reviews** | 11 June 2026 |
 
-All three certificates identify **Pushkar Singh** and state that the courses were offered by IILM University through the Cisco Networking Academy program. fileciteturn80file0L2-L7 fileciteturn80file1L2-L7 fileciteturn80file2L2-L7
+These certificates document completion of the respective Cisco Networking Academy courses and are included in this repository for internship credential documentation.
+
+### Certificate Files
+
+- 📜 `Data_Analytics_Essentials_Certificate.pdf`
+- 📜 `Introduction_to_Modern_AI_Certificate.pdf`
+- 📜 `Apply_AI_Analyze_Customer_Reviews_Certificate.pdf`
 
 ---
 
@@ -127,7 +135,7 @@ All three certificates identify **Pushkar Singh** and state that the courses wer
 └── README.md
 ```
 
-The NetSage AI summary describes the solution, methodology, architecture, deterministic rule engine, human oversight, workflow and final review results. fileciteturn80file3L3-L23 fileciteturn80file3L43-L54
+The **NetSage_AI_Summary.pdf** describes the solution, methodology, architecture, deterministic rule engine, human oversight, workflow and final review results. The **NetSage_AI_Solution.zip** contains the submitted solution package.
 
 ---
 
