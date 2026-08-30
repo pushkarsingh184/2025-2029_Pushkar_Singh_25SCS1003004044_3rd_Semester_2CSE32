@@ -151,7 +151,7 @@ The **NetSage_AI_Summary.pdf** describes the solution, methodology, architecture
 
 1. **Candidate's Declaration**
 2. **Acknowledgement**
-3. **Internship Completion Certificate**
+3. **Internship Course Completion Certificate**
 4. **Project Description**
    - 4.1 Introduction
    - 4.2 Organization Profile
@@ -162,7 +162,7 @@ The **NetSage_AI_Summary.pdf** describes the solution, methodology, architecture
    - 4.7 System Architecture
    - 4.8 Methodology
    - 4.9 Expected Outcomes
-   - 4.10 Certificates of Completion and Communication Proof
+   - 4.10 Certificates of Course Completion and Communication Proof
 5. **Bibliography/References**
 
 This report structure follows the same submission-oriented organization as the reference internship repository, while the report content will be specific to the **Cisco Virtual Internship Program 2026** and the **NetSage AI** project.
