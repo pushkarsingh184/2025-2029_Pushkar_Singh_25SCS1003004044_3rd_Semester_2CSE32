@@ -2,7 +2,7 @@
 
 > **AICTE × Cisco | Virtual Internship Program**
 
-This repository contains my internship documentation, presentation/project material, and verified learning credentials for the **Cisco Virtual Internship Program 2026**.
+This repository contains my internship project documentation, solution package, summary, and verified Cisco Networking Academy learning credentials for the **Cisco Virtual Internship Program 2026**.
 
 ---
 
@@ -12,6 +12,7 @@ This repository contains my internship documentation, presentation/project mater
 |---|---|
 | **Name** | Pushkar Singh |
 | **Roll Number** | 25SCS1003004044 |
+| **AICTE Internship Student Registration ID** | `STU6a01e900c9c981778510080` |
 | **Institute** | IILM University, Greater Noida, U.P. |
 | **Programme** | B.Tech CSE, Batch 2025–2029 |
 | **Semester / Section** | 3rd Semester / 2CSE32 |
@@ -40,7 +41,7 @@ The solution also includes deterministic rule checks, mandatory human review, co
 - Provide structured root-cause diagnosis, confidence, OSI layer, next command and fix steps.
 - Implement deterministic and explainable rule checks for common networking faults.
 - Maintain mandatory human review using **Accepted / Edited / Rejected** outcomes.
-- Record genuine human corrections for responsible-AI review.
+- Record human corrections for responsible-AI review.
 - Provide dashboard and correction-history views for evaluation.
 - Demonstrate a complete case → diagnosis → review → correction workflow.
 
@@ -89,32 +90,44 @@ Correction History + Dashboard
 
 ## 📊 Final Review Status
 
+The final project summary records **35 / 35 cases reviewed**, with **30 Accepted, 4 Edited and 1 Rejected**. The application reports **86% AI/human agreement** and **34 / 35 rule coverage**. fileciteturn80file3L55-L63
+
 | Metric | Final Status |
 |---|---:|
-| Cases | **35 / 35 reviewed** |
-| Accepted | **32** |
-| Edited | **2** |
+| Cases reviewed | **35 / 35** |
+| Accepted | **30** |
+| Edited | **4** |
 | Rejected | **1** |
-| Confirmed non-accepted cases | **3** |
-
-The supplied final project summary confirms 35 reviewed cases, with 32 Accepted, 2 Edited and 1 Rejected. It also notes that the required minimum of five human-corrected cases is not yet confirmed; only 3 non-accepted outcomes are currently documented. fileciteturn64file19
+| AI / human agreement | **86% (application-reported)** |
+| Rule coverage | **34 / 35** |
+| Human-corrected cases | **5 (4 Edited + 1 Rejected)** |
 
 ---
 
 ## 🏆 Certification & Credentials
 
-| Credential | Details |
-|---|---|
-| **Cisco Networking Academy – Data Analytics Essentials** | Completed by Pushkar Singh through IILM University / Cisco Networking Academy |
-| **Cisco Networking Academy – Introduction to Modern AI** | Completed by Pushkar Singh through IILM University / Cisco Networking Academy |
-| **Cisco Networking Academy – Apply AI: Analyze Customer Reviews** | Completed by Pushkar Singh through IILM University / Cisco Networking Academy |
+The repository is intended to contain the following three Cisco Networking Academy course-completion certificates:
 
-### Verified Data Analytics Essentials Credential
+1. **Data Analytics Essentials** — completed 16 June 2026. fileciteturn80file2L2-L13
+2. **Introduction to Modern AI** — completed 11 June 2026. fileciteturn80file1L2-L13
+3. **Apply AI: Analyze Customer Reviews** — completed 11 June 2026. fileciteturn80file0L2-L13
 
-- **Certificate ID:** `ca8e11b4-2872-48c7-8e17-3211d7343f6d`
-- **Completion Date:** 16 June 2026 fileciteturn67file0
+All three certificates identify **Pushkar Singh** and state that the courses were offered by IILM University through the Cisco Networking Academy program. fileciteturn80file0L2-L7 fileciteturn80file1L2-L7 fileciteturn80file2L2-L7
 
-The other two Cisco Networking Academy credentials are also present in the available records. fileciteturn67file7 fileciteturn67file13
+---
+
+## 📁 Repository Contents
+
+```text
+├── NetSage_AI_Solution.zip
+├── NetSage_AI_Summary.pdf
+├── Apply_AI_Analyze_Customer_Reviews_Certificate.pdf
+├── Introduction_to_Modern_AI_Certificate.pdf
+├── Data_Analytics_Essentials_Certificate.pdf
+└── README.md
+```
+
+The NetSage AI summary describes the solution, methodology, architecture, deterministic rule engine, human oversight, workflow and final review results. fileciteturn80file3L3-L23 fileciteturn80file3L43-L54
 
 ---
 
@@ -126,37 +139,21 @@ The other two Cisco Networking Academy credentials are also present in the avail
 
 ---
 
-## 📁 Repository Contents
+## 📄 Project Structure
 
-```text
-├── NetSage_AI_Solution_Submission_FINAL_SUBMIT.zip   # Final solution package
-├── NetSage_AI_Summary_Document_FINAL_SUBMIT_v2.pdf  # Project summary
-├── Cisco_Course_Completion_Certificate_Data_Analytics_Essentials.pdf
-│                                                      # Verified Cisco Networking Academy credential
-└── README.md                                          # This file
-```
-
-> **Note:** Only credentials and project artifacts that are currently available and verifiable have been listed. An internship completion certificate or offer letter is not represented unless the corresponding original document is available.
-
----
-
-## 📄 Report Structure
-
-1. Candidate's Declaration
-2. Acknowledgement
-3. Internship Completion Certificate
-4. Project Description
-   - 4.1 Introduction
-   - 4.2 Organization Profile
-   - 4.3 Problem Statement
-   - 4.4 Project Objectives
-   - 4.5 Scope of the Project
-   - 4.6 Technologies and Tools Used
-   - 4.7 System Architecture
-   - 4.8 Methodology
-   - 4.9 Expected Outcomes
-   - 4.10 Certificates of Completion and Communication Proof
-5. Bibliography / References
+1. Introduction
+2. Problem Statement
+3. Objectives
+4. Scope
+5. Step-by-Step Methodology
+6. System Architecture
+7. Deterministic Rule Engine
+8. Human Oversight and Responsible AI
+9. Final Review Snapshot
+10. User Workflow
+11. Technologies and Tools
+12. Expected Outcomes
+13. Conclusion
 
 ---
 
@@ -166,4 +163,5 @@ I would like to express my gratitude to the Cisco Virtual Internship Program tea
 
 **Pushkar Singh**  
 **25SCS1003004044**  
+**AICTE Internship Student Registration ID: STU6a01e900c9c981778510080**  
 **B.Tech CSE | IILM University, Greater Noida**
