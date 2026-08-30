@@ -147,21 +147,25 @@ The **NetSage_AI_Summary.pdf** describes the solution, methodology, architecture
 
 ---
 
-## 📄 Project Structure
+## 📄 Report Structure
 
-1. Introduction
-2. Problem Statement
-3. Objectives
-4. Scope
-5. Step-by-Step Methodology
-6. System Architecture
-7. Deterministic Rule Engine
-8. Human Oversight and Responsible AI
-9. Final Review Snapshot
-10. User Workflow
-11. Technologies and Tools
-12. Expected Outcomes
-13. Conclusion
+1. **Candidate's Declaration**
+2. **Acknowledgement**
+3. **Internship Completion Certificate**
+4. **Project Description**
+   - 4.1 Introduction
+   - 4.2 Organization Profile
+   - 4.3 Problem Statement
+   - 4.4 Project Objectives
+   - 4.5 Scope of the Project
+   - 4.6 Technologies and Tools Used
+   - 4.7 System Architecture
+   - 4.8 Methodology
+   - 4.9 Expected Outcomes
+   - 4.10 Certificates of Completion and Communication Proof
+5. **Bibliography/References**
+
+This report structure follows the same submission-oriented organization as the reference internship repository, while the report content will be specific to the **Cisco Virtual Internship Program 2026** and the **NetSage AI** project.
 
 ---
 
