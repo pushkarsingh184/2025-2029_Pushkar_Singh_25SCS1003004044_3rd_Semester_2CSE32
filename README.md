@@ -2,7 +2,7 @@
 
 > **AICTE × Cisco | Virtual Internship Program**
 
-This repository contains my internship documentation, project work, presentation material, and verified learning credentials for the **Cisco Virtual Internship Program 2026**.
+This repository contains my internship documentation, presentation/project material, and verified learning credentials for the **Cisco Virtual Internship Program 2026**.
 
 ---
 
@@ -17,7 +17,7 @@ This repository contains my internship documentation, project work, presentation
 | **Semester / Section** | 3rd Semester / 2CSE32 |
 | **Internship Domain** | Networking + AI-assisted Troubleshooting |
 | **Organization** | Cisco |
-| **Programme** | Cisco Virtual Internship Program 2026 |
+| **Internship Programme** | Cisco Virtual Internship Program 2026 |
 | **Project** | NetSage AI / NetSage Assist |
 | **Duration** | 25 May 2026 – 30 August 2026 |
 
@@ -92,12 +92,12 @@ Correction History + Dashboard
 | Metric | Final Status |
 |---|---:|
 | Cases | **35 / 35 reviewed** |
-| Accepted | **30** |
-| Edited | **4** |
+| Accepted | **32** |
+| Edited | **2** |
 | Rejected | **1** |
-| Human-corrected cases | **5** |
+| Confirmed non-accepted cases | **3** |
 
-The final review state records 35 reviewed cases, including 5 cases requiring human correction/intervention.
+The supplied final project summary confirms 35 reviewed cases, with 32 Accepted, 2 Edited and 1 Rejected. It also notes that the required minimum of five human-corrected cases is not yet confirmed; only 3 non-accepted outcomes are currently documented. fileciteturn64file19
 
 ---
 
@@ -112,7 +112,9 @@ The final review state records 35 reviewed cases, including 5 cases requiring hu
 ### Verified Data Analytics Essentials Credential
 
 - **Certificate ID:** `ca8e11b4-2872-48c7-8e17-3211d7343f6d`
-- **Completion Date:** 16 June 2026
+- **Completion Date:** 16 June 2026 fileciteturn67file0
+
+The other two Cisco Networking Academy credentials are also present in the available records. fileciteturn67file7 fileciteturn67file13
 
 ---
 
@@ -121,7 +123,6 @@ The final review state records 35 reviewed cases, including 5 cases requiring hu
 - Cisco — https://www.cisco.com/
 - Cisco Networking Academy — https://www.netacad.com/
 - Cisco Skills for All — https://skillsforall.com/
-- Cisco Networking Academy – Data Analytics Essentials certificate — https://www.netacad.com/
 
 ---
 
@@ -129,13 +130,13 @@ The final review state records 35 reviewed cases, including 5 cases requiring hu
 
 ```text
 ├── NetSage_AI_Solution_Submission_FINAL_SUBMIT.zip   # Final solution package
-├── NetSage_AI_Summary_Document_FINAL_SUBMIT_v2.pdf  # Project summary / report
+├── NetSage_AI_Summary_Document_FINAL_SUBMIT_v2.pdf  # Project summary
 ├── Cisco_Course_Completion_Certificate_Data_Analytics_Essentials.pdf
 │                                                      # Verified Cisco Networking Academy credential
 └── README.md                                          # This file
 ```
 
-> **Note:** Only credentials and project artifacts that are currently available and verifiable have been listed. An internship completion certificate or offer letter is not represented here unless the corresponding original document is available.
+> **Note:** Only credentials and project artifacts that are currently available and verifiable have been listed. An internship completion certificate or offer letter is not represented unless the corresponding original document is available.
 
 ---
 
