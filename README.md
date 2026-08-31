@@ -2,7 +2,7 @@
 
 > **AICTE × Cisco | Virtual Internship Program**
 
-This repository contains my internship project documentation, solution package, summary, and verified Cisco Networking Academy learning credentials for the **Cisco Virtual Internship Program 2026**.
+This repository contains my internship project documentation, solution package, summary, live project link, and verified Cisco Networking Academy learning credentials for the **Cisco Virtual Internship Program 2026**.
 
 ---
 
@@ -16,7 +16,7 @@ This repository contains my internship project documentation, solution package, 
 | **Institute** | IILM University, Greater Noida, U.P. |
 | **Programme** | B.Tech CSE, Batch 2025–2029 |
 | **Semester / Section** | 3rd Semester / 2CSE32 |
-| **Internship Domain** | Networking + AI-assisted Troubleshooting |
+| **Internship Domain** | Artificial Intelligence / Machine Learning |
 | **Organization** | Cisco |
 | **Internship Programme** | Cisco Virtual Internship Program 2026 |
 | **Project** | NetSage AI / NetSage Assist |
@@ -24,9 +24,17 @@ This repository contains my internship project documentation, solution package, 
 
 ---
 
+## 🌐 Live Project
+
+**NetSage AI Dashboard:** https://clever-net-aide.lovable.app
+
+The live application provides the NetSage AI troubleshooting dashboard, including the reviewed-case workflow, issue-type and severity summaries, rule-coverage information, and correction history.
+
+---
+
 ## 📌 About the Internship
 
-The Cisco Virtual Internship Program 2026 provided practical exposure to networking concepts and applied troubleshooting. My project work focused on connecting observable network evidence with likely faults and actionable troubleshooting steps.
+The Cisco Virtual Internship Program 2026 provided practical exposure to Artificial Intelligence, Machine Learning, Python, data analytics, and applied AI workflows. My project work focused on building and documenting a practical AI-assisted solution around a predetermined problem statement.
 
 The capstone project, **NetSage AI**, is an AI-assisted troubleshooting helper for Cisco-style networking lab scenarios. It takes reported symptoms, topology notes and show-command evidence, then produces a structured diagnosis with the likely root cause, confidence, relevant OSI layer, next diagnostic command and evidence-backed fix steps.
 
@@ -118,9 +126,9 @@ These certificates document completion of the respective Cisco Networking Academ
 
 ### Certificate Files
 
-- 📜 `Data_Analytics_Essentials_Certificate.pdf`
-- 📜 `Introduction_to_Modern_AI_Certificate.pdf`
-- 📜 `Apply_AI_Analyze_Customer_Reviews_Certificate.pdf`
+- 📜 `Data_Analytics_Essentials_certificate_pushkars1804-gmail-com_ca8e11b4-2872-48c7-8e17-3211d7343f6d.pdf`
+- 📜 `Introduction_to_Modern_AI_certificate_pushkars1804-gmail-com_34b2fcab-1a6f-4c43-bbff-6c6555c8760b.pdf`
+- 📜 `Apply_AI-_Analyze_Customer_Reviews_certificate_pushkars1804-gmail-com_9bcdba68-f639-4abb-a6ee-68b3f63c3d01.pdf`
 
 ---
 
@@ -129,9 +137,10 @@ These certificates document completion of the respective Cisco Networking Academ
 ```text
 ├── NetSage_AI_Solution.zip
 ├── NetSage_AI_Summary.pdf
-├── Apply_AI_Analyze_Customer_Reviews_Certificate.pdf
-├── Introduction_to_Modern_AI_Certificate.pdf
-├── Data_Analytics_Essentials_Certificate.pdf
+├── Internship_Report_Pushkar_Singh.pdf
+├── Apply_AI-_Analyze_Customer_Reviews_certificate_pushkars1804-gmail-com_9bcdba68-f639-4abb-a6ee-68b3f63c3d01.pdf
+├── Introduction_to_Modern_AI_certificate_pushkars1804-gmail-com_34b2fcab-1a6f-4c43-bbff-6c6555c8760b.pdf
+├── Data_Analytics_Essentials_certificate_pushkars1804-gmail-com_ca8e11b4-2872-48c7-8e17-3211d7343f6d.pdf
 └── README.md
 ```
 
@@ -151,7 +160,7 @@ The **NetSage_AI_Summary.pdf** describes the solution, methodology, architecture
 
 1. **Candidate's Declaration**
 2. **Acknowledgement**
-3. **Internship Course Completion Certificate**
+3. **Internship Course Completion Certificates**
 4. **Project Description**
    - 4.1 Introduction
    - 4.2 Organization Profile
@@ -162,16 +171,16 @@ The **NetSage_AI_Summary.pdf** describes the solution, methodology, architecture
    - 4.7 System Architecture
    - 4.8 Methodology
    - 4.9 Expected Outcomes
-   - 4.10 Certificates of Course Completion and Communication Proof
+   - 4.10 Internship Course Completion Certificates and Project Proof
 5. **Bibliography/References**
 
-This report structure follows the same submission-oriented organization as the reference internship repository, while the report content will be specific to the **Cisco Virtual Internship Program 2026** and the **NetSage AI** project.
+The report follows the submission-oriented organization used for the internship documentation while the content is specific to the **Cisco Virtual Internship Program 2026** and the **NetSage AI** project.
 
 ---
 
 ## 🙏 Acknowledgement
 
-I would like to express my gratitude to the Cisco Virtual Internship Program team, IILM University, and everyone who supported me throughout the internship and project work. The programme provided an opportunity to strengthen my networking knowledge and apply structured troubleshooting concepts to a practical project.
+I would like to express my gratitude to the Cisco Virtual Internship Program team, IILM University, and everyone who supported me throughout the internship and project work. The programme provided an opportunity to strengthen my understanding of Artificial Intelligence and Machine Learning and apply those concepts to a practical project.
 
 **Pushkar Singh**  
 **25SCS1003004044**  
